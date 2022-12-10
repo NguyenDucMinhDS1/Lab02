@@ -19,7 +19,7 @@ class App extends React.Component{
     this.callAPI();
   }
 
-  render() {
+render() {
     return (
       <div className="App">
         <header className="App-header">
